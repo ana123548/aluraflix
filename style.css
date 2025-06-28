@@ -1,0 +1,24 @@
+body {
+background: black;
+color: white;
+margin: 0px;
+}
+font-family: "Libertinus Mono", monospace;
+header {
+border-bottom: solid 2px white;
+padding: 20px;
+font-size: 32px;
+color: red;
+}
+
+section {
+background: red;
+padding-top: 80px;
+padding-bottom: 80px;
+display:flex;
+justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
