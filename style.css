@@ -32,4 +32,10 @@ h1 {
 
 img {
     height: 300px;
+    widht: 100px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
 }
